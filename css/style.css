@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 400%;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: Black;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #696969;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #696969;
+}
+
+.description{
+  font-weight: normal;
+}
+
+.our-work-title{
+  text-align: center;
+  font-size: 50px;
+  color: #696969;
+  font: 'Sacramento', cursive;
+}
+/*****Buttons*****/
+
+
+/*****containers*********/
+.TopContainer {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+color:#A9A9A9;
+}
+
+
+.skill-row{
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+/****Images***/
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profileimage{
+  height: 250px;
+  width: 250px;
+  position: relative;
+}
+
+
+.programming-skill{
+  height: 25%;
+  width: 25%;
+  position: relative;
+  float: left;
+  margin-right: 30px;
+}
+
+.creativity-images{
+  height: 25%;
+  width: 25%;
+  position: relative;
+  float: right;
+  margin-left: 30px;
+}
